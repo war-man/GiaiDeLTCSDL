@@ -1,0 +1,28 @@
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.deps.json
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.json
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.dev.json
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csprojAssemblyReference.cache
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfoInputs.cache
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfo.cs
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CopyComplete
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\TestDotnet\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.deps.json
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.json
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.dev.json
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csprojAssemblyReference.cache
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfoInputs.cache
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfo.cs
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CoreCompileInputs.cache
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CopyComplete
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\Lập Trình Cơ Sở Dữ Liệu\De4_LTCSDL_192\LTCSDL-192-master\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.genruntimeconfig.cache

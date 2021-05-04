@@ -1,0 +1,27 @@
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.deps.json
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.dll
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.pdb
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csprojAssemblyReference.cache
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.AssemblyInfoInputs.cache
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.AssemblyInfo.cs
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csproj.CopyComplete
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.dll
+F:\TestDotnet\LTCSDL\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.pdb
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.deps.json
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.dll
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.pdb
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csprojAssemblyReference.cache
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.AssemblyInfoInputs.cache
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.AssemblyInfo.cs
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csproj.CoreCompileInputs.cache
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csproj.CopyComplete
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.dll
+F:\Lập Trình Cơ Sở Dữ Liệu\De1_LTCSDL_192\LTCSDL-192-master\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.pdb
